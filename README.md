@@ -1,7 +1,6 @@
 # Job-Scraping-and-Analysis
 
 Created a web-scraper to scrape jobs from LinkedIn.com
-<br>
 The jobs scraped for this analysis, were titled ‘Data science’, located in the United States and dated June 2020. 
 <br>
 The scope of this analysis answers the following questions:
